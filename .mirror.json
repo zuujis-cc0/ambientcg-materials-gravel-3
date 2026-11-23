@@ -1,5 +1,11 @@
 {
- "assets": {},
+ "assets": {
+  "Gravel039": "c35332b03591a907d1e6a0d90f5dbf03190ebd77",
+  "Gravel040": "69ff82acaa8892c647f9e9323b7530246f34e687",
+  "Gravel041": "4b2587fc4c5fbf623791a9a80e8cf42552bbf02c",
+  "Gravel042": "a31943d2e58cee16088ae5183a35833796860111",
+  "Gravel043": "32e592f8304819e332490571217b75ea649b937f"
+ },
  "license": "https://docs.ambientcg.com/license/",
  "site": "https://ambientcg.com",
  "source": "ambientcg",
